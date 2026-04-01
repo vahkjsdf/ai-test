@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### Custom Secrets ###
+src/main/resources/application.properties
